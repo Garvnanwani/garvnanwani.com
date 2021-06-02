@@ -46,7 +46,7 @@ export default function Footer() {
           <Link href="/uses">
             <a className="text-gray-500 transition hover:text-gray-600">Uses</a>
           </Link>
-          <Link href="/uses">
+          <Link href="/contact">
             <a className="text-gray-500 transition hover:text-gray-600">
               Contact
             </a>
