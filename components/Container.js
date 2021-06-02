@@ -53,7 +53,7 @@ const Container = ({ children, ...customMeta }) => {
       <nav className="flex items-center justify-between w-full p-4 mx-auto text-gray-900 bg-red-200 md:max-w-6xl sticky-nav dark:bg-primary bg-opacity-60 dark:text-gray-100">
         <div>
           <Link href="/">
-            <a className="relative mr-2 top-3">
+            <a className="relative mr-2 top-2">
               <Image
                 src="/mypic.jpg"
                 alt="garv nanwani"
@@ -66,7 +66,7 @@ const Container = ({ children, ...customMeta }) => {
           <button
             aria-label="Toggle Dark Mode"
             type="button"
-            className="w-12 h-12 p-4 focus:outline-none"
+            className="relative w-12 h-12 p-4 focus:outline-none bottom-1"
             onClick={() =>
               setTheme(resolvedTheme === 'dark' ? 'light' : 'dark')
             }
