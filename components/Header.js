@@ -30,7 +30,7 @@ const Header = () => {
               href="https://twitter.com/garvnanwani"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-2xl transition-all duration-500 ease-in-out cursor-pointer dark:text-white hover:text-secondary dark:hover:text-secondary"
+              className="text-3xl transition-all duration-500 ease-in-out cursor-pointer dark:text-white hover:text-secondary dark:hover:text-secondary"
             >
               <FaTwitter />
             </a>
@@ -40,7 +40,7 @@ const Header = () => {
               href="https://www.linkedin.com/in/garvnanwani/"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-2xl transition-all duration-500 ease-in-out cursor-pointer hover:text-secondary dark:text-white dark:hover:text-secondary"
+              className="text-3xl transition-all duration-500 ease-in-out cursor-pointer hover:text-secondary dark:text-white dark:hover:text-secondary"
             >
               <FaLinkedin />
             </a>
@@ -50,7 +50,7 @@ const Header = () => {
               href="https://github.com/Garvnanwani"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-2xl transition-all duration-500 ease-in-out cursor-pointer hover:text-secondary dark:text-white dark:hover:text-secondary"
+              className="text-3xl transition-all duration-500 ease-in-out cursor-pointer hover:text-secondary dark:text-white dark:hover:text-secondary"
             >
               <FaGithub />
             </a>
@@ -60,7 +60,7 @@ const Header = () => {
               href="https://dev.to/garvnanwani"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-2xl transition-all duration-500 ease-in-out cursor-pointer hover:text-secondary dark:text-white dark:hover:text-secondary"
+              className="text-3xl transition-all duration-500 ease-in-out cursor-pointer hover:text-secondary dark:text-white dark:hover:text-secondary"
             >
               <FaDev />
             </a>
@@ -70,7 +70,7 @@ const Header = () => {
               href="https://www.instagram.com/garv_nanwani/"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-2xl transition-all duration-500 ease-in-out cursor-pointer hover:text-secondary dark:text-white dark:hover:text-secondary"
+              className="text-3xl transition-all duration-500 ease-in-out cursor-pointer hover:text-secondary dark:text-white dark:hover:text-secondary"
             >
               <FaInstagram />
             </a>
