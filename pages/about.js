@@ -20,7 +20,7 @@ export default function About() {
               width={450}
               height={450}
             />
-            <div className="max-w-xl mt-10 md:mt-0">
+            <div className="max-w-xl mt-10 md:mt-0 text-xl">
               <div className="mb-7">
                 Hey, My name is Garv Nanwani and I am currently a Second Year
                 Computer Science Undergraduate Student at JMI,
