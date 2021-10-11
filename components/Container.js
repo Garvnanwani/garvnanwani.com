@@ -16,7 +16,7 @@ const Container = ({ children, ...customMeta }) => {
   const router = useRouter()
   const meta = {
     title: 'Garv Nanwani',
-    description: `Second Year Coputer Science Student.`,
+    description: `Second Year Computer Science Student.`,
     image: 'https://garvnanwani.com/og.jpg',
     type: 'website',
     ...customMeta
