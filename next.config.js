@@ -11,9 +11,7 @@ const rewrites = async () => [
 
 module.exports = {
   rewrites,
-  future: {
-    webpack5: true
-  },
+  webpack5: true,
   experimental: {
     turboMode: true,
     eslint: true
