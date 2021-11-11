@@ -1,5 +1,7 @@
 import Container from '@/components/Container'
 import Header from '@/components/Header'
+import Skills from '@/components/Skills'
+import Timeline from '@/components/Timeline'
 
 export default function Home() {
   return (
@@ -10,6 +12,8 @@ export default function Home() {
       >
         <div className="w-full mx-auto md:max-w-5xl">
           <Header />
+          <Skills />
+          <Timeline />
         </div>
       </Container>
     </>

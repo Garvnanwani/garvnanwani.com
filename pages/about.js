@@ -13,14 +13,14 @@ export default function About() {
           <h1 className="mb-10 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
             About me
           </h1>
-          <div className="justify-center gap-10 md:flex">
+          <div className="justify-center gap-10 lg:flex">
             <Image
               src="/mypic2.jpg"
               alt="garv nanwani"
               width={450}
               height={450}
             />
-            <div className="max-w-xl mt-10 md:mt-0 text-xl">
+            <div className="max-w-xl mt-10 lg:mt-0 text-xl">
               <div className="mb-7">
                 Hey, My name is Garv Nanwani and I am currently a Second Year
                 Computer Science Undergraduate Student at JMI,
