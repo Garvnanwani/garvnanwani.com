@@ -11,6 +11,7 @@ module.exports = {
         secondary: 'var(--clr-secondary)'
       },
       minHeight: {
+        '1/2': '65vh',
         '3/4': '75vh'
       },
       fontFamily: {

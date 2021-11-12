@@ -10,7 +10,7 @@ import {
 
 const Header = () => {
   return (
-    <div className="items-center justify-between w-full mx-auto mt-5 text-gray-800 md:mt-16 md:mb-20 md:max-w-5xl md:flex">
+    <div className="justify-between w-full min-h-1/2 mx-auto text-gray-800 mt-8 md:mt-24 md:mb-20 md:max-w-5xl md:flex">
       <div>
         <div className="w-24 h-1 mb-5 bg-secondary"></div>
         <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">

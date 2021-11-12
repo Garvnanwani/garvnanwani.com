@@ -1,13 +1,13 @@
 const Skills = () => {
   return (
-    <section>
+    <section className="mb-20">
       <div className="mx-auto text-center">
-        <h2 className="text-3xl font-bold mb-2">Skills</h2>
-        <div className="mx-auto w-24 h-1 mb-5 bg-secondary"></div>
+        <h2 className="mb-2 text-3xl font-bold">Skills</h2>
+        <div className="w-24 h-1 mx-auto mb-8 bg-secondary"></div>
       </div>
       <div className="section-center skills-center">
-        <article>
-          <h3 className="text-center">Languages</h3>
+        <article className="dark:border-white">
+          <h3 className="mt-5 text-xl font-bold text-center">Languages</h3>
           <div className="skill-box-1">
             <div>
               <img
@@ -27,15 +27,24 @@ const Skills = () => {
               />
               <p className="skill-name">Javascript</p>
             </div>
+            <div>
+              <img
+                className="skill-icon"
+                src="/typescript.png"
+                loading="lazy"
+                alt="typescript"
+              />
+              <p className="skill-name">Typescript</p>
+            </div>
           </div>
         </article>
-        <article>
-          <h3 className="text-center">Technologies</h3>
+        <article className="dark:border-white">
+          <h3 className="mt-5 text-xl font-bold text-center">Technologies</h3>
           <div className="skill-box-2">
             <div>
               <img
                 className="skill-icon"
-                src="/react.svg"
+                src="/react.png"
                 loading="lazy"
                 alt="react"
               />
@@ -63,8 +72,8 @@ const Skills = () => {
             </div>
           </div>
         </article>
-        <article>
-          <h3 className="text-center">Tools</h3>
+        <article className="dark:border-white">
+          <h3 className="mt-5 text-xl font-bold text-center">Tools</h3>
           <div className="skill-box-3">
             <div>
               <img

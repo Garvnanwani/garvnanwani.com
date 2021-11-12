@@ -371,14 +371,14 @@ table {
     column-gap: 2rem;
   }
 
-  .skill-box-2,
+  /* .skill-box-2,
   .skill-box-3 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     -webkit-column-gap: 2rem;
     -moz-column-gap: 2rem;
     column-gap: 2rem;
-  }
+  } */
 
   .skill-box-1 {
     display: grid;
