@@ -4,6 +4,7 @@ import splitbee from '@splitbee/web'
 import { ThemeProvider } from 'next-themes'
 import { useEffect } from 'react'
 import '../styles/globals.css'
+import 'atropos/css'
 
 function MyApp({ Component, pageProps }) {
   useEffect(() => {

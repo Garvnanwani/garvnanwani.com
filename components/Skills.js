@@ -30,7 +30,7 @@ const Skills = () => {
             <div>
               <img
                 className="skill-icon"
-                src="/typescript.png"
+                src="/typescript.svg"
                 loading="lazy"
                 alt="typescript"
               />
@@ -44,7 +44,7 @@ const Skills = () => {
             <div>
               <img
                 className="skill-icon"
-                src="/react.png"
+                src="/reactjs.svg"
                 loading="lazy"
                 alt="react"
               />

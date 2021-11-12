@@ -1,5 +1,6 @@
 import Container from '@/components/Container'
 import Image from 'next/image'
+import Atropos from 'atropos/react'
 
 export default function About() {
   return (
@@ -14,13 +15,15 @@ export default function About() {
             About me
           </h1>
           <div className="justify-center gap-10 lg:flex">
-            <Image
-              src="/mypic2.jpg"
-              alt="garv nanwani"
-              width={450}
-              height={450}
-            />
-            <div className="max-w-xl mt-10 lg:mt-0 text-xl">
+            <Atropos className="my-atropos">
+              <Image
+                src="/mypic2.jpg"
+                alt="garv nanwani"
+                width={450}
+                height={450}
+              />
+            </Atropos>
+            <div className="max-w-xl mt-10 text-xl lg:mt-0">
               <div className="mb-7">
                 Hey, My name is Garv Nanwani and I am currently a Second Year
                 Computer Science Undergraduate Student at JMI,

@@ -1132,6 +1132,11 @@ at-least-node@^1.0.0:
   resolved "https://registry.yarnpkg.com/at-least-node/-/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
   integrity sha512-+q/t7Ekv1EDY2l6Gda6LLiX14rU9TV20Wa3ofeQmwPFZbOMo9DXrLbOjFaaclkXKWidIaopwAObQDqwWtGUjqg==
 
+atropos@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/atropos/-/atropos-1.0.1.tgz#6c241f0963fd72f669be80c01fd4f8b15f13927d"
+  integrity sha512-MJwmKQ6OOM5Sbf8aEt2LasIXxKwuknQtaAplrlVcUlmGH63V+dAdQVGOPbgYJlhX74LgSifa0kbLvc6jyPLegg==
+
 autoprefixer@^10.2.6:
   version "10.2.6"
   resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-10.2.6.tgz#aadd9ec34e1c98d403e01950038049f0eb252949"
