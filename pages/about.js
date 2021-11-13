@@ -15,7 +15,7 @@ export default function About() {
             About me
           </h1>
           <div className="justify-center gap-10 lg:flex">
-            <Atropos className="my-atropos">
+            <Atropos className="my-atropos" rotateTouch="scroll-y">
               <Image
                 src="/mypic2.jpg"
                 alt="garv nanwani"

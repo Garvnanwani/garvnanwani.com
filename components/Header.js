@@ -79,7 +79,7 @@ const Header = () => {
         </ul>
       </div>
       <div className="mt-9">
-        <Atropos className="my-atropos">
+        <Atropos className="my-atropos" rotateTouch="scroll-y">
           <Image
             src="/mypic.jpg"
             alt="garv nanwani"
