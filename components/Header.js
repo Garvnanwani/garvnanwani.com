@@ -11,7 +11,7 @@ import {
 
 const Header = () => {
   return (
-    <div className="justify-between w-full mx-auto mt-8 text-gray-800 min-h-1/2 md:mt-24 md:mb-20 md:max-w-5xl md:flex">
+    <div className="justify-between w-full mx-auto mt-8 mb-10 text-gray-800 min-h-1/2 md:mt-24 md:mb-20 md:max-w-5xl md:flex">
       <div>
         <div className="w-24 h-1 mb-5 bg-secondary"></div>
         <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
