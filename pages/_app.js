@@ -15,9 +15,9 @@ function MyApp({ Component, pageProps }) {
   }, [])
 
   return (
-    <ThemeProvider attribute="class" defaultTheme="system">
-      <MDXProvider components={MDXComponents}>
-        <Component {...pageProps} />
+    <ThemeProvider attribute="class" defaultTheme="dark">
+      <MDXProvider components={ MDXComponents }>
+        <Component { ...pageProps } />
       </MDXProvider>
     </ThemeProvider>
   )

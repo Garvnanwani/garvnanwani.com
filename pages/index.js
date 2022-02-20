@@ -10,7 +10,7 @@ export default function Home() {
         title="Garv nanwani - Developer and Student"
         description="Personal Portfolio of Garv nanwani"
       >
-        <div className="w-full mx-auto md:max-w-5xl">
+        <div className="w-full mx-auto md:max-w-5xl ">
           <Header />
           <Skills />
           <Timeline />

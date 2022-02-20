@@ -15,7 +15,7 @@ const Header = () => {
       <div>
         <div className="w-24 h-1 mb-5 bg-secondary"></div>
         <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
-          Hii, I'm Garv
+          Garv Nanwani
         </h1>
         <h4 className="text-2xl mb-14 lg:mb-20 md:mt-6 md:mb-10 text-secondary">
           Full Stack Web Developer And Designer
@@ -83,8 +83,8 @@ const Header = () => {
           <Image
             src="/mypic.jpg"
             alt="garv nanwani"
-            width={400}
-            height={400}
+            width={ 400 }
+            height={ 400 }
             objectFit="cover"
             className="z-10 mx-auto"
           />
