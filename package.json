@@ -32,7 +32,7 @@
         "firebase-admin": "9.9.0",
         "framer-motion": "4.1.17",
         "gray-matter": "4.0.3",
-        "mdx-prism": "0.3.3",
+        "mdx-prism": "0.3.4",
         "mousetrap": "1.6.5",
         "next": "11.1.1",
         "next-mdx-remote": "3.0.2",
