@@ -58,7 +58,7 @@
         "trailingComma": "none"
     },
     "devDependencies": {
-        "eslint": "7.28.0",
+        "eslint": "7.32.0",
         "eslint-config-next": "11.0.0",
         "globby": "11.0.4",
         "image-size": "1.0.0",
