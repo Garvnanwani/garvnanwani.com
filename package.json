@@ -21,7 +21,7 @@
         "@mapbox/rehype-prism": "0.6.0",
         "@mdx-js/loader": "1.6.22",
         "@mdx-js/react": "1.6.22",
-        "@next/mdx": "11.0.0",
+        "@next/mdx": "11.1.4",
         "@splitbee/web": "0.2.4",
         "@tailwindcss/typography": "0.5.2",
         "atropos": "1.0.2",
@@ -59,7 +59,7 @@
     },
     "devDependencies": {
         "eslint": "7.28.0",
-        "eslint-config-next": "11.0.0",
+        "eslint-config-next": "11.1.4",
         "globby": "11.0.4",
         "image-size": "1.0.1",
         "prettier": "2.5.1",
