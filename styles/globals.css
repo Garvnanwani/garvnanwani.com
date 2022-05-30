@@ -29,6 +29,8 @@
 html {
   min-width: 360px;
   scroll-behavior: smooth;
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 5000px;
 }
 
 #__next {
