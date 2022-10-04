@@ -33,6 +33,7 @@ const Skills = () => {
                 src="/typescript.svg"
                 loading="lazy"
                 alt="typescript"
+                style={{width : "86px", height:"86px"}}
               />
               <p className="skill-name">Typescript</p>
             </div>
