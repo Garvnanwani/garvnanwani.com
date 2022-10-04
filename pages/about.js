@@ -25,13 +25,13 @@ export default function About() {
             </Atropos>
             <div className="max-w-xl mt-10 text-xl lg:mt-0">
               <div className="mb-7">
-                Hey, My name is Garv Nanwani and I am currently a Second Year
+                Hey, My name is Garv Nanwani and I am currently a Final Year
                 Computer Science Undergraduate Student at JMI,
                 <span> New Delhi.</span>
               </div>
               <div className="mb-7">
                 My field of Interests are programming and psychology. I have
-                been coding for around 2 years now. I love to design websites
+                been coding for around 4 years now. I love to design websites
                 and build full stack applications using MERN stack preferably.{' '}
               </div>
               <div className="mb-7">
